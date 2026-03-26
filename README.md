@@ -1,3 +1,5 @@
+![logo](https://github.com/laksh114/laksh114/blob/main/Green%20and%20Black%20Modern%20Software%20Developer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Laksh Jangid</h1>
 <h3 align="center">A passionate Software Engineerfrom India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/0*ygaHmPjQnVmEApdT.gif">
